@@ -268,3 +268,36 @@ with tab2:
             
     else:
         st.warning("Please Add Groq Api Key")
+        
+footer="""<style>
+a:link , a:visited{
+
+color: blue;
+background-color: transparent;
+text-decoration: none;
+font-weight:bold;
+letter-spacing:2px;
+}
+
+a:hover,  a:active {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: white;
+color: black;
+text-align: center;
+}
+
+</style>
+<div class="footer">
+<p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://linkedin.com/in/swikrit-shukla" target="_blank">Swikrit Shukla</a></p>
+</div>
+"""
+st.markdown(footer,unsafe_allow_html=True)
