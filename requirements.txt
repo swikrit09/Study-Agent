@@ -1,0 +1,9 @@
+bs4
+python-docx
+groq
+agno
+streamlit
+arxiv 
+tavily-python
+newspaper4k
+youtube-transcript-api
