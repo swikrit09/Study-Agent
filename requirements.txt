@@ -7,3 +7,4 @@ arxiv
 tavily-python
 newspaper4k
 youtube-transcript-api
+pypdf
