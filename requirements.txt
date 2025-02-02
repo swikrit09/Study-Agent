@@ -6,5 +6,6 @@ streamlit
 arxiv 
 tavily-python
 newspaper4k
+lxml_html_clean
 youtube-transcript-api
 pypdf
